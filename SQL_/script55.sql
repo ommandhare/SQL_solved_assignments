@@ -1,0 +1,1 @@
+select max(salary) as maximum_salary from salaries;

@@ -1,0 +1,1 @@
+select min(salary) as minimum_salary from salaries;
