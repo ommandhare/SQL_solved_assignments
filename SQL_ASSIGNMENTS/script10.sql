@@ -1,3 +1,6 @@
+-- Create table donor in blood_bank database.
+-- (donor no,first name,last name,blood group,contact no,latest date of donation).
+
 create database blood_bank;
 use blood_bank;
 

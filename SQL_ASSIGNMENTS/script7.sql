@@ -1,3 +1,5 @@
+-- Create table marks in school database.(Roll no,maths marks,English marks,science marks)
+
 use school;
 
 create table marks(

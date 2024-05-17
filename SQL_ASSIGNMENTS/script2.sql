@@ -1,3 +1,4 @@
+-- Enter following data in above table.
 use library;
 INSERT INTO book_dtl VALUES 
 (102,'Dasbodh','Ramdas Swami',504,2000),

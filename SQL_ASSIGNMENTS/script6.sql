@@ -1,3 +1,6 @@
+-- Create table student in school database.(Roll no,first name,last name,DOB)
+
+
 create database school;
 use school;
 create table student(

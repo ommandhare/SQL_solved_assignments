@@ -1,3 +1,4 @@
+-- Create table store_dtl in retail database.
 use retail;
 
 create table store_dtl(

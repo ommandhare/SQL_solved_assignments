@@ -1,3 +1,5 @@
+-- Create new database library and create table book_dtl.
+
 create database library;
 use library;
 

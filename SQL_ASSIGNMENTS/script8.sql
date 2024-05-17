@@ -1,3 +1,6 @@
+-- Create table ‘Wing a’showing details of flat holders in shrileela database.
+-- (flat No,owner name,mobile number)(max 10 flats)
+
 create database shrileela;
 use shrileela;
 

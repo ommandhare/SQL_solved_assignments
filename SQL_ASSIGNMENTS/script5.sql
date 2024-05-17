@@ -1,3 +1,6 @@
+-- Create family_dtl table consisting family details in family database.
+-- (Which will show first_name, middle_name, last_name, age, relation_with_yourself)
+
 use family;
 create database family;
 
